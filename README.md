@@ -8,8 +8,6 @@ A desktop application for calculating the amount you will receive if you send X 
 
 ![View of the main application window](Readme_images/Main-page.png)
 
-![View of the application closing window](Readme_images/Close-page.png)
-
 ### Why was the application created
 
 In Russia, my parents and my wife had an elderly dog named Richa and I needed to send money for his treatment, so as not to count all the commissions and so on, I developed this simple application that always receives up-to-date data. And at the same time, I got acquainted and practiced using the tkinter and beautifulsoup4 libraries for parsing data directly through the HTML code of a third-party service.
